@@ -1,2 +1,3 @@
 # ProgramerRecommendSystem
-Recommendation system for HR's
+
+Read __END.ipynb__
